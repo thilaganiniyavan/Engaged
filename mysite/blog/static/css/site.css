@@ -1,0 +1,118 @@
+ @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+.blogfont{
+  font-family: 'Russo One', sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.postdate{
+  text-align: center;
+}
+
+.posttitle{
+  font-family: 'Russo One', sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+.postcontent{
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
+
+.bigbrand{
+  font-size:1.5em;
+  color:#ffffff;
+}
+
+input:hover{
+  background-color: rgba(194, 194, 194,0.3);
+
+}
+
+#usernamenav{
+  color: white;
+}
+
+.abth1{
+  font-weight: bolder;
+  margin-bottom:25px;
+  font-size: 30px;
+}
+
+
+.img{
+  width: 100%;
+  height: 250px;
+}
+
+.name{
+  font-weight: bolder;
+  margin-top: 50px;
+}
+
+body{
+  background: url(https://image.freepik.com/free-vector/geometric-grey-background_1055-3147.jpg);
+  background-size: cover;
+
+
+}
+
+.posttitleloader{
+  color: Black;
+  font-family: 'Russo One' cursive;
+}
+
+#blogimg{
+  width: 50px;
+  height: 50px;
+}
+
+#blogimg{
+  border-radius: 50%;
+}
+
+.nav-link{
+   color: rgb(200,200,200);
+
+}
+
+#ybps{
+  color: red;
+}
+
+#np{
+  font-size: 40px;
+  font-weight:bolder;
+  font-family: sans-serif;
+}
+
+#draft{
+  font-weight: bolder;
+}
+
+.post{
+  font-family: fantasy;
+}
+
+.abt{
+  font-family: monospace;
+}
+h1{
+  font: rgb(168, 189, 186);
+}
+
+.btn-outline-dark:hover{
+  color: blue;
+
+}
